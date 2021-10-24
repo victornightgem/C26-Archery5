@@ -1,1 +1,1 @@
-# C26-Archery5
+# project-C24-template
